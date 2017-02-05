@@ -6,13 +6,26 @@
 </head>
 <body>
         <form action="" method="GET">
-            <label for="on">On:</label><input type="radio" name="onOff" value="on">
-            <label for="off">Off:</label><input type="radio" name="onOff" value="off">
+            <label for="on">On:</label><input id="on" type="radio" name="onOff" value="on">
+            <label for="off">Off:</label><input id="off" type="radio" name="onOff" value="off">
 
             <br>
-            <label for="twitter">Twitter</label><input type="checkbox" name="twitter" value="yes">
-            <input type="checkbox" name="facebook" value="yes">
+            <label for="twitter">Twitter: </label><input id="twitter" type="checkbox" name="twitter" value="yes">
+            <label for="facebook">Facebook: </label><input id="facebook" type="checkbox" name="facebook" value="yes">
+
+
+            <br>
+            <select name="country">
+                <option value="US">US</option>
+                <option value="AUS">AUS</option>
+                <option value="UK">UK</option>
+            </select>
+
+            <br>
+            <textarea name="message"></textarea>
             <input type="submit" value="Submit the form">
+            <!-- URI when all choices are done
+            http://localhost:63342/HTML/HTML/radio_buttons_chck_ta.html?onOff=off&twitter=yes&facebook=yes&country=US&message=This+is+a+message -->
         </form>
     </body>
 </html>
