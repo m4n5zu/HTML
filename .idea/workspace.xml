@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="344428c1-f933-4a48-bfc5-b90bfc41f46a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/audio/answer.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/audio.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/video.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <list id="d41d182a-fd42-466b-bd86-cbbc195a69ae" name="Failed commit: Default" comment="update file">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/structure-html5.html" afterPath="$PROJECT_DIR$/HTML/structure-html5.html" />
     </list>
     <ignored path="$PROJECT_DIR$/../../HTML/.tmp/" />
@@ -37,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="structure-html5.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="structure-html5.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HTML/structure-html5.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+            <state relative-caret-position="327">
+              <caret line="24" column="250" lean-forward="false" selection-start-line="24" selection-start-column="250" selection-end-line="24" selection-end-column="250" />
               <folding>
                 <element signature="e#1084#1090#0" expanded="true" />
               </folding>
@@ -79,7 +78,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="video.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="video.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML/video.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
@@ -344,7 +343,7 @@
       <workItem from="1485708362168" duration="308000" />
       <workItem from="1485712425480" duration="1780000" />
       <workItem from="1486296171513" duration="11489000" />
-      <workItem from="1487000712776" duration="6272000" />
+      <workItem from="1487000712776" duration="7186000" />
     </task>
     <task id="LOCAL-00001" summary="first file test">
       <created>1485713426894</created>
@@ -409,11 +408,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487007543511</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update file">
+      <created>1487007563598</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1487007563598</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19849000" />
+    <option name="totallyTimeSpent" value="20763000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -425,10 +431,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1845" height="1098" extended-state="0" />
+    <frame x="-9" y="-9" width="1845" height="1098" extended-state="1" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18862766" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18862766" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32962587" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -595,16 +601,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/structure-html5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-          <folding>
-            <element signature="e#1084#1090#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/audio.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -618,6 +614,16 @@
         <state relative-caret-position="204">
           <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/structure-html5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="24" column="250" lean-forward="false" selection-start-line="24" selection-start-column="250" selection-end-line="24" selection-end-column="250" />
+          <folding>
+            <element signature="e#1084#1090#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

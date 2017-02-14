@@ -14,9 +14,9 @@
 				pattern="[a-zA-Z]{2,}" title="Please enter in more than two letters" >
 				<label for="email">Email: </label>
 				<input  type="text" name="email" id="email" required placeholder="Your Email" 
-				pattern="[a-zA-Z]{3,}@[a-zA-Z]{3,}[.]{1}[a-zA-Z]{2,}" title="Please enter in a valide email address"
+				pattern="[a-zA-Z]{3,}[.]{0,1}[a-zA-Z]{1,}@[a-zA-Z]{3,}[.]{1}[a-zA-Z]{2,}" title="Please enter in a valide email address"
 				title= "Please enter in a phone number in this format">
-				<label for="phone">Phone: </label><input id="phone" type="tel" name="phone" id="phone" required placeholder="Please enter in your phone number" pattern="[0-9]{4} [0-9]{3} [0-9]{3}" >
+				<label for="phone">Phone: </label><input id="phone" type="tel" name="phone" id="phone" required placeholder="Please enter in your phone number" pattern="[0-9]{1,12}" >
 				<select name="country" required>
 					<option value=""> </option>
 					<option value="US">US</option>
