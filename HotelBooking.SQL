@@ -3,7 +3,7 @@ IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[User]
 GO
 CREATE TABLE [dbo].[User] (
 [IdUser] CHAR(10)  NOT NULL  
-, [Username] VARCHAR(48)  NOT NULL  
+, [Username] VARCHAR(49)  NOT NULL
 , [email] VARCHAR(255)  NOT NULL  
 , [Phone] VARCHAR(15)  NOT NULL  
 , [IdCountry] INTEGER  NULL  
